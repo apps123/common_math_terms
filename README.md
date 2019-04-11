@@ -1,4 +1,4 @@
-# Common Math Terms
+# Math Terms
 
 ## definitions
   * a priori means “from before the fact” and refers to reasoning done before an event happens.
